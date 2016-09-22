@@ -1,0 +1,15 @@
+0d7caab51d91e136559a011cfb3c6630 *DESCRIPTION
+2728e3341eb593837349f5af6dbc79e3 *LICENSE
+b5434d5685226c1aa6339444a819976f *NAMESPACE
+96d44e72a164a4c8fb14ac72bbd95cd9 *R/plotluck.R
+928ade237557ecacb17a5eedb69ce2bb *README.md
+82fbc3ad4dc8581e3fba912b899555d8 *build/vignette.rds
+4e7373d57eb4092ee3bf82374287e0bf *inst/doc/plotluck.R
+7eb24ab0484669cfa4798de38f2a2c7f *inst/doc/plotluck.Rmd
+edcfd0d84f2c7a14f1c5a991d2bc22e7 *inst/doc/plotluck.html
+a04c5edb93e83c5c104822b8c11517b6 *man/plotluck.Rd
+50eb31d6abc378db2e0be4081cf3d102 *man/plotluck.options.Rd
+8f76c81a2251e090d50bc3e95cb107ae *man/sample.plotluck.Rd
+e13fe226aba7b667eb36e2319911c855 *tests/testthat.R
+fc2d810fbac3b0257b014943d06bf564 *tests/testthat/test_plotluck.R
+7eb24ab0484669cfa4798de38f2a2c7f *vignettes/plotluck.Rmd
