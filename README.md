@@ -1,12 +1,9 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
 
-# GGPlot2 version of "I'm Feeling Lucky!"
+# GGPlot2 version of "I'm Feeling Lucky!" [![CRAN Version](http://www.r-pkg.org/badges/version/plotluck)](https://cran.r-project.org/package=plotluck) [![CRAN Downloads](http://cranlogs.r-pkg.org/badges/plotluck)](https://cran.r-project.org/package=plotluck)
 
 ## Purpose
 
@@ -33,8 +30,8 @@ Imagine you have given a new R data frame, and would like to get an overview of 
 
 ```r
 library(plotluck)
-data(diamonds,package='ggplot2')
-plotluck(price~cut+color, diamonds)
+data(diamonds, package='ggplot2')
+plotluck(diamonds, price~cut+color)
 ```
 
 ![plot of chunk unnamed-chunk-2](README-unnamed-chunk-2-1.png)
