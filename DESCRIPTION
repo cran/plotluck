@@ -1,6 +1,6 @@
 Package: plotluck
 Title: 'ggplot2' Version of "I'm Feeling Lucky!"
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: person("Stefan", "Schroedl", , "stefan.schroedl@gmx.de", c("aut", "cre"))
 Description: Examines the characteristics of a data frame and a formula to
     automatically choose the most suitable type of plot out of the following supported
@@ -20,11 +20,11 @@ BugReports: https://github.com/stefan-schroedl/plotluck/issues
 LazyData: true
 Suggests: testthat, ggplot2movies, mgcv, nlme, knitr, rmarkdown,
         gapminder
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2016-11-12 22:45:34 UTC; stefan
+Packaged: 2019-06-26 09:28:06 UTC; stefan
 Author: Stefan Schroedl [aut, cre]
 Maintainer: Stefan Schroedl <stefan.schroedl@gmx.de>
 Repository: CRAN
-Date/Publication: 2016-11-13 02:07:09
+Date/Publication: 2019-06-26 11:50:03 UTC
